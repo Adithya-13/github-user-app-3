@@ -15,7 +15,7 @@ android {
         versionName "1.0"
 
         buildConfigField "String", 'BASE_URL', '"https://api.github.com/"'
-        buildConfigField "String", 'API_KEY', '"43ac67f0f0452aad91a96ff9f894f029dc29d25d"'
+        buildConfigField "String", 'API_KEY', '"YOUR-API-KEY"'
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
