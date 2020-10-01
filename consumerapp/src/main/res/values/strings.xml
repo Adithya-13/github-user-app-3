@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GitHub User</string>
+    <string name="type">Type</string>
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="company">Company</string>
+    <string name="location">Location</string>
+    <string name="repository">Repository: %d</string>
+    <string name="followers_d">Followers: %d</string>
+    <string name="following_d">Following: %d</string>
+    <string name="followers_title">Followers</string>
+    <string name="following_title">Following</string>
+    <string name="favorite_button">Favorite Button</string>
+    <string name="consumer_app">Consumer App</string>
+    <string name="add_user_fav">add %s to Favorite</string>
+    <string name="remove_user_fav">remove %s from Favorite</string>
+    <string name="avatar" translatable="false">Avatar</string>
+</resources>

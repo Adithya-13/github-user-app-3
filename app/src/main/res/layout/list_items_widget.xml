@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:cardCornerRadius="10dp">
+
+    <ImageView
+        android:id="@+id/userAvatarWidget"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        tools:srcCompat="@drawable/ic_round_arrow_downward_24"
+        android:contentDescription="@string/avatar" />
+
+    <LinearLayout
+        android:alpha="0.5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="vertical"
+        android:background="@drawable/title_widget"
+        android:padding="10dp">
+
+        <TextView
+            android:id="@+id/tvUsernameWidget"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:singleLine="true"
+            android:textSize="14sp"
+            android:textColor="@android:color/white"
+            tools:text="Username" />
+
+        <TextView
+            android:id="@+id/tvTypeWidget"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:singleLine="true"
+            android:textSize="12sp"
+            android:textColor="@android:color/white"
+            tools:text="Type" />
+
+    </LinearLayout>
+
+</RelativeLayout>

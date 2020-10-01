@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name" translatable="false">GitHub User</string>
+    <string name="search">Search</string>
+    <string name="favorite">Favorite</string>
+    <string name="setting">Setting</string>
+    <string name="about">About</string>
+    <string name="type">Type</string>
+    <string name="name">Name</string>
+    <string name="please_search_a_user">Please Search a User</string>
+    <string name="username">Username</string>
+    <string name="company">Company</string>
+    <string name="location">Location</string>
+    <string name="repository" translatable="false">Repository: %d</string>
+    <string name="followers_d">Followers: %d</string>
+    <string name="following_d">Following: %d</string>
+    <string name="followers_title">Followers</string>
+    <string name="following_title">Following</string>
+    <string name="favorite_activity" translatable="false">Favorite Activity</string>
+    <string name="favorite_button">Favorite Button</string>
+    <string name="back_button">Back Button</string>
+    <string name="setting_activity" translatable="false">Setting Activity</string>
+    <string name="language">Language</string>
+    <string name="reminder">Reminder</string>
+    <string name="_09_00" translatable="false">09:00</string>
+    <string name="desc_notification">Let\'s Find a famous user on Github User App</string>
+    <string name="successful_reminder">Turn on daily reminders</string>
+    <string name="nonactive_reminder">turn off daily reminders</string>
+    <string name="add_user_fav">add %s to Favorite</string>
+    <string name="remove_user_fav">remove %s from Favorite</string>
+    <string name="avatar" translatable="false">Avatar</string>
+    <string name="your_favorite_user">Your Favorite User</string>
+    <string name="empty">Empty</string>
+</resources>

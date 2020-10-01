@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item android:drawable="@drawable/splashscreen_background" />
+    <item
+        android:width="100dp"
+        android:height="100dp"
+        android:gravity="center"
+        tools:targetApi="m">
+        <bitmap
+            android:gravity="fill_horizontal|fill_vertical"
+            android:src="@drawable/github_logo" />
+    </item>
+
+</layer-list>

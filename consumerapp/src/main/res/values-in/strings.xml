@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GitHub User Consumer</string>
+    <string name="type">Tipe</string>
+    <string name="name">Nama</string>
+    <string name="username">Nama Pengguna</string>
+    <string name="company">Perusahaan</string>
+    <string name="location">Lokasi</string>
+    <string name="repository">Repository: %d</string>
+    <string name="followers_d">Pengikut: %d</string>
+    <string name="following_d">Mengikuti: %d</string>
+    <string name="followers_title">Pengikut</string>
+    <string name="following_title">Mengikuti</string>
+    <string name="favorite_button">Tombol Favorit</string>
+    <string name="consumer_app">Consumer App</string>
+    <string name="add_user_fav">menambahkan %s ke Favorit</string>
+    <string name="remove_user_fav">Menghapuskan %s dari Favorit</string>
+</resources>

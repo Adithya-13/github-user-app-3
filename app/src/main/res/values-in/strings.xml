@@ -1,0 +1,26 @@
+<resources>
+    <string name="search">Cari</string>
+    <string name="favorite">Favorit</string>
+    <string name="setting">Pengaturan</string>
+    <string name="about">Tentang Kami</string>
+    <string name="type">Tipe</string>
+    <string name="name">Nama</string>
+    <string name="please_search_a_user">Harap cari pengguna</string>
+    <string name="username">Nama Pengguna</string>
+    <string name="company">Perusahaan</string>
+    <string name="location">Lokasi</string>
+    <string name="followers_d">Pengikut: %d</string>
+    <string name="following_d">Mengikuti: %d</string>
+    <string name="followers_title">Pengikut</string>
+    <string name="following_title">Mengikuti</string>
+    <string name="favorite_button">Tombol Favorit</string>
+    <string name="back_button">Tombol Kembali</string>
+    <string name="language">Bahasa</string>
+    <string name="reminder">Pengingat</string>
+    <string name="desc_notification">Ayo cari Pengguna populer di Github User App</string>
+    <string name="successful_reminder">Mengaktifkan pengingat harian</string>
+    <string name="nonactive_reminder">menonaktifkan Reminder harian</string>
+    <string name="add_user_fav">menambahkan %s ke Favorit</string>
+    <string name="remove_user_fav">Menghapuskan %s dari Favorit</string>
+    <string name="your_favorite_user">Your Favorite User</string>
+</resources>
